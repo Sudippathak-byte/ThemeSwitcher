@@ -32,15 +32,6 @@ Button actions trigger specific alerts based on the card clicked.
 
 
 
-bash
-Copy code
-npm install
-Run the application:
-
-bash
-Copy code
-npm start
-The app will be available at http://localhost:3000.
 
 Components Overview
 1. contexts/theme.js
